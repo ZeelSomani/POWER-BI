@@ -3,7 +3,7 @@
 This project presents an interactive Power BI dashboard that analyzes sales data for Amazon products. The dashboard offers a comprehensive view of key performance indicators (KPIs) and visual insights for better decision-making.
 
 ## 🔍 Features
-KPI Cards:
+KPI Cards: 
 YTD Sales: $2.18M
 QTD Sales: $811.09K
 YTD Products Sold: 27.75K
